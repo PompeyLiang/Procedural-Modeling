@@ -1,2 +1,2 @@
-# GrasshopperScripts
-This repository stores all .gh case files I shared on all my social media. Feel free to download them.
+# Work Scripts
+This repository stores all .gh case files and .hip file I shared on all my social media. Feel free to download them.
